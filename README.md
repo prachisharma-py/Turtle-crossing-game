@@ -83,7 +83,7 @@ Displays the player's current level and shows a "Game Over" message when the gam
 
 ## 📷 Demo
 
-![Turtle Crossing Demo](assets/turtle-crossing-demo.gif)
+![Turtle Crossing Demo](assets/turtle-crossing-game.gif)
 
 ---
 
