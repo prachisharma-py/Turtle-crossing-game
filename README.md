@@ -4,6 +4,12 @@ A fun arcade-style game inspired by the classic **Frogger**, built using Python'
 
 ---
 
+## 📷 Demo
+
+![Turtle Crossing Demo](assets/turtle-crossing-game.gif)
+
+---
+
 ## 🎮 Gameplay Overview
 
 You control a turtle trying to cross a busy road. Cars continuously appear from the right side of the screen and move leftwards. Your goal is to avoid getting hit by cars while navigating upward toward the top of the screen.
@@ -78,12 +84,6 @@ Displays the player's current level and shows a "Game Over" message when the gam
 | Up  | Move forward  |
 
 > 🚫 The turtle only moves forward. Use timing and reflexes to avoid getting hit by cars!
-
----
-
-## 📷 Demo
-
-![Turtle Crossing Demo](assets/turtle-crossing-game.gif)
 
 ---
 
